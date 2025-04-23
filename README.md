@@ -46,4 +46,4 @@ The dataset includes the following columns:
 - **Programming**: Python 3.x, SQL (for any database queries)
 - **Data Processing & Analysis**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Plotly (optional)
-- **Reporting**: Jupyter Notebook, PowerPoint, or Markdown-to-PDF tools
+
