@@ -28,7 +28,6 @@ The dataset includes the following columns:
 3. **Exploratory Data Analysis (EDA)**
    - Univariate analysis: distributions of numerical features.
    - Categorical analysis: frequency counts and bar charts.
-   - Bivariate analysis: correlations and cross-tabulations.
 4. **Sales Trends & Patterns**
    - Time-series or year-based analysis of sales by store age.
    - Seasonal or monthly trends if timestamps are available.
@@ -38,12 +37,9 @@ The dataset includes the following columns:
 6. **Visualization & Dashboard**
    - Create charts (histograms, box plots, bar charts, heatmaps).
    - Assemble interactive dashboard or static storyboards.
-7. **Reporting**
-   - Compile insights into a report (PDF, PowerPoint, or HTML).
 
 ## Tools & Technologies
 
 - **Programming**: Python 3.x, SQL (for any database queries)
 - **Data Processing & Analysis**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Plotly (optional)
-
+- **Visualization**: Matplotlib, Seaborn
